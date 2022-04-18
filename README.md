@@ -1,7 +1,7 @@
 ## Hello!
 ==============================
 ### An aspring game developer and programmer.
-I'm an informatics engineering student. Still learning the ropes about software development. I mainly use Linux and vim for my workflow.
+I'm an informatics engineering student. Still learning the ropes about software development.
 
 ## Languages
 ==============================
@@ -15,7 +15,7 @@ I'm an informatics engineering student. Still learning the ropes about software 
 
 ## Skill
 ===============================
-- vim
+- Arduino
 - LaTeX
 - Linux
 - LMMS (music production)
