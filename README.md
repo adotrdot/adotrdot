@@ -9,7 +9,9 @@ I'm an informatics engineering student. Still learning the ropes about software 
 - C++
 - CSS
 - HTML
+- JavaScript
 - SQL (MySQL, Oracle)
+- PHP
 - Python
 - Shell
 
