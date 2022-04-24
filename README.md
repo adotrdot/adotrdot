@@ -21,3 +21,7 @@ I'm an informatics engineering student. Still learning the ropes about software 
 - LaTeX
 - Linux
 - LMMS (music production)
+
+## Certificates
+===============================
+- [CS50x 2021](https://cs50.harvard.edu/certificates/709064f6-96d8-484f-8e09-c6195713c386)
